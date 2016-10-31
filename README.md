@@ -19,3 +19,6 @@ Green Blue and coral on the deep elegant dark background.
 ## LESS
 
 ![Less A screenshot of your theme](https://raw.githubusercontent.com/thierryc/dark-side-of-the-moon-syntax/master/img/less_screen.png)
+
+
+[Autre Planete Design Studio, Paris/NYC](http://www.autreplanete.com/)
