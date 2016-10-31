@@ -10,12 +10,12 @@ Green Blue and coral on the deep elegant dark background.
 
 ## JSON
 
-![Json A screenshot of your theme](img/js_screen.png)
+![Json A screenshot of your theme](https://raw.githubusercontent.com/thierryc/dark-side-of-the-moon-syntax/master/img/js_screen.png)
 
 ## JS
 
-![Js A screenshot of your theme](img/json_screen.png)
+![Js A screenshot of your theme](https://raw.githubusercontent.com/thierryc/dark-side-of-the-moon-syntax/master/img/json_screen.png)
 
 ## LESS
 
-![Less A screenshot of your theme](img/less_screen.png)
+![Less A screenshot of your theme](https://raw.githubusercontent.com/thierryc/dark-side-of-the-moon-syntax/master/img/less_screen.png)
