@@ -276,15 +276,22 @@ atom-text-editor .search-results .marker.current-result .region,
   }
   &.property-list {
     .property-name {
-      color: @light-orange;
+      color: darken(@soft-blue, 10%);
     }
     .punctuation.separator {
-      color: darken(@light-orange, 20%);
+      color: darken(@soft-blue, 20%);
     }
-
   }
-
 }
+
+// less
+.source.less,
+.source.scss, {
+  .variable {
+    color: lighten(@soft-blue, 10%);
+  }
+}
+
 
 .none {
   color: @syntax-text-color;
