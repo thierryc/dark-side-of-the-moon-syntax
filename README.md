@@ -1,4 +1,4 @@
-# Dark Side of the Moon for Atom.
+# Dark Side of the Moon syntax theme for Atom.
 
 ## dark-side-of-the-moon-syntax theme
 
