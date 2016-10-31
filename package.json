@@ -10,7 +10,10 @@
     "coral",
     "bleu",
     "green",
-    "blindness"
+    "blindness",
+    "syntax",
+    "moon",
+    "dark"
   ],
   "repository": {
     "type": "git",
