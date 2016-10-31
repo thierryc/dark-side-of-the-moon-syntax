@@ -258,6 +258,17 @@ atom-text-editor .search-results .marker.current-result .region,
   &.tag {
     color: darken(@soft-blue, 10%);
   }
+
+  &.dictionary {
+    .string {
+      color: @soft-blue;
+    }
+    &.value {
+      > .string {
+        color: @green;
+      }
+    }
+  }
 }
 
 .none {

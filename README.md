@@ -6,6 +6,16 @@ Dark Side Of The Moon is peaceful dark syntax theme.
 
 Ported form my BBedit Theme.
 
-Green and Blue on the deep elegant dark background.
+Green Blue and coral on the deep elegant dark background.
 
-![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
+## JSON
+
+![Json A screenshot of your theme](img/js_screen.png)
+
+## JS
+
+![Js A screenshot of your theme](img/json_screen.png)
+
+## LESS
+
+![Less A screenshot of your theme](img/less_screen.png)
