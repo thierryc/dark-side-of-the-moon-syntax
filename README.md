@@ -1,16 +1,3 @@
-# Dark Side Of The Moon for Atom.
-
-## dark-side-of-the-moon-syntax theme
-
-Dark Side Of The Moon is peaceful dark syntax theme.
-
-### Color Blindness Optimized for Zen Codding !
-
-#### Definition : 
-
-Color blindness, also known as color vision deficiency, is the decreased ability to see color or differences in color.[2] Color blindness can make some educational activities difficult. Buying fruit, picking clothing, and reading traffic lights can also be more challenging. Problems, however, are generally minor and most people adapt. People with total color blindness may also have decreased visual acuity and be uncomfortable in bright environments.
-
-### From BBedit
 # Dark Side of the Moon for Atom.
 
 ## dark-side-of-the-moon-syntax theme
