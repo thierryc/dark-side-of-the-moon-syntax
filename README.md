@@ -8,17 +8,18 @@ Ported form my BBedit Theme.
 
 Green Blue and coral on the deep elegant dark background.
 
-## JSON
+## JS (Javascript)
 
 ![Json A screenshot of your theme](https://raw.githubusercontent.com/thierryc/dark-side-of-the-moon-syntax/master/img/js_screen.png)
 
-## JS
+## JSON
 
 ![Js A screenshot of your theme](https://raw.githubusercontent.com/thierryc/dark-side-of-the-moon-syntax/master/img/json_screen.png)
 
 ## LESS
 
 ![Less A screenshot of your theme](https://raw.githubusercontent.com/thierryc/dark-side-of-the-moon-syntax/master/img/less_screen.png)
+
 
 
 [Autre Planete Design Studio, Paris/NYC](http://www.autreplanete.com/)
