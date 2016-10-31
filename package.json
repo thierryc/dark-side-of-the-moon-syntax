@@ -1,15 +1,16 @@
 {
   "name": "dark-side-of-the-moon-syntax",
   "theme": "syntax",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "description": "Dark Side Of The Moon is peaceful dark syntax theme",
   "keywords": [
     "syntax",
     "theme",
+    "color",
     "coral",
     "bleu",
     "green",
-    "Blindness"
+    "blindness"
   ],
   "repository": {
     "type": "git",
