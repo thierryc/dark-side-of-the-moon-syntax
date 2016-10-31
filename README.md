@@ -33,25 +33,3 @@ Green Blue and Coral on the deep elegant dark background. (Sea at the Moonlight)
 
 
 [Autre Planete Design Studio, Paris/NYC](http://www.autreplanete.com/)
-
-Ported form my BBedit Theme.
-
-### Elegant's Colors 
-
-Green Blue and coral on the deep elegant dark background.
-
-## JS (Javascript)
-
-![Json A screenshot of your theme](https://raw.githubusercontent.com/thierryc/dark-side-of-the-moon-syntax/master/img/js_screen.png)
-
-## JSON
-
-![Js A screenshot of your theme](https://raw.githubusercontent.com/thierryc/dark-side-of-the-moon-syntax/master/img/json_screen.png)
-
-## LESS
-
-![Less A screenshot of your theme](https://raw.githubusercontent.com/thierryc/dark-side-of-the-moon-syntax/master/img/less_screen.png)
-
-
-
-[Autre Planete Design Studio, Paris/NYC](http://www.autreplanete.com/)
