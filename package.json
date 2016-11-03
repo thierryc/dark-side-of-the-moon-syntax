@@ -14,10 +14,7 @@
     "moon",
     "dark"
   ],
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/thierryc/dark-side-of-the-moon-syntax.git"
-  },
+  "repository": "https://github.com/thierryc/dark-side-of-the-moon-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
