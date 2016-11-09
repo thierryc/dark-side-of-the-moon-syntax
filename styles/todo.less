@@ -1,0 +1,63 @@
+@import "syntax-variables";
+
+// TODO: for todo
+// FIXME: if I can!
+// CHANGED: Good news
+// XXX: what!
+// IDEA: A good one!
+// HACK: It is bad?
+// NOTE: for you!
+// REVIEW: for me!
+
+:host,
+atom-text-editor {
+    .source .comment {
+
+        .changed,
+        .fixme,
+        .hack,
+        .idea,
+        .note,
+        .review,
+        .todo,
+        .xxx {
+            background-color: black;
+            padding-left: 6px;
+            padding-right: 6px;
+            border-radius: 8px;
+        }
+
+        .todo {
+            color: @syntax-color-todo-todo;
+        }
+
+        .fixme {
+            background-color: @syntax-color-todo-fixme-bg;
+            color: @syntax-color-todo-fixme;
+        }
+
+        .changed {
+            color: @syntax-color-todo-changed;
+        }
+
+        .xxx {
+            color: @syntax-color-todo-xxx;
+        }
+
+        .idea {
+            color: @syntax-color-todo-idea;
+        }
+
+        .hack {
+            color: @syntax-color-todo-hack;
+        }
+
+        .note {
+            color: @syntax-color-todo-note;
+        }
+
+        .review {
+            color: @syntax-color-todo-review;
+        }
+    }
+}
