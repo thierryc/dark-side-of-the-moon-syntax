@@ -26,7 +26,17 @@ Green Blue and Coral on the deep elegant dark background. (Sea at the Moonlight)
 
 ### Color Blindness Optimized for Zen Codding!
 
-[Autre Planete Design Studio, Paris/NYC](http://www.autreplanete.com/)
+Nice colors for every one. Good contraste, Sweet colors.
+
+## Awesome Packages Selection
+
+Just my selection.
+
+  * [todo-show](https://atom.io/packages/todo-show)
+  * [Sublime-Style-Column-Selection](https://atom.io/packages/Sublime-Style-Column-Selection)
+  * [atom-beautify](https://atom.io/packages/atom-beautify)
+  * [change-case](https://atom.io/packages/change-case)
+
 
 # CHANGELOG :
 
@@ -42,3 +52,10 @@ Green Blue and Coral on the deep elegant dark background. (Sea at the Moonlight)
 
 ## 0.3.4 - add label for TODO, FIXME, CHANGED, XXX, IDEA, HACK, NOTE, REVIEW
 * Every bug fixed
+
+
+
+
+# BY
+
+[Autre Planete Design Studio, Paris/NYC](http://www.autreplanete.com/)
