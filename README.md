@@ -26,7 +26,7 @@ Green Blue and Coral on the deep elegant dark background. (Sea at the Moonlight)
 
 ### Color Blindness Optimized for Zen Codding!
 
-Nice colors for every one. Good contraste, Sweet colors.
+Nice colors for everyone. Good contrast, sweet colors.
 
 ## Awesome Packages Selection
 
@@ -40,17 +40,17 @@ Just my selection.
 
 # CHANGELOG :
 
-## 0.1.0 - First Release
+### 0.1.0 - First Release
 * Every feature added
 * Every bug fixed
 
-## 0.2.0 - Optimisation for JS CSS and HTML5
+### 0.2.0 - Optimization for JS CSS and HTML5
 * Every bug fixed
 
-## 0.3.0 - Optimisation for LESS, SASS, SCSS, PYHTON.
+### 0.3.0 - Optimization for LESS, SASS, SCSS, PYTHON.
 * Every bug fixed
 
-## 0.3.4 - add label for TODO, FIXME, CHANGED, XXX, IDEA, HACK, NOTE, REVIEW
+### 0.3.4 - add label for TODO, FIXME, CHANGED, XXX, IDEA, HACK, NOTE, REVIEW
 * Every bug fixed
 
 
