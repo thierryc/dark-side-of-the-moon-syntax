@@ -2,7 +2,9 @@
 
 ## dark-side-of-the-moon-syntax theme
 
-Dark Side of the Moon is a Peaceful dark syntax theme.
+![Dark Side of the Moon is a Peaceful dark syntax theme for Atom.](https://raw.githubusercontent.com/thierryc/dark-side-of-the-moon-syntax/master/img/home.png)
+
+Dark Side of the Moon is a Peaceful dark syntax theme for Atom.
 
 ### From BBedit
 
