@@ -24,6 +24,22 @@ Green Blue and Coral on the deep elegant dark background. (Sea at the Moonlight)
 
 ![Less A screenshot of your theme](https://raw.githubusercontent.com/thierryc/dark-side-of-the-moon-syntax/master/img/less_screen.png)
 
+## TODO
+
+Programmers may use informal tags in comments to assist in indexing common issues.
+
+* FIXME - Should be corrected.
+* HACK - A workaround.
+* TODO - Something to be done.
+* XXX - Warn other programmers of problematic or misguiding code
+
+![Todo A screenshot of your theme](https://raw.githubusercontent.com/thierryc/dark-side-of-the-moon-syntax/master/img/less_screen_todo.png)
+
+### Very good TODO, FIXME, and more Packages.
+
+  * [todo-show](https://atom.io/packages/todo-show)
+
+
 ### Color Blindness Optimized for Zen Codding!
 
 Nice colors for everyone. Good contrast, sweet colors.
