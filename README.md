@@ -52,6 +52,10 @@ Programmers may use informal tags in comments to assist in indexing common issue
 
 Nice colors for everyone. Good contrast, sweet colors.
 
+The goal of this  theme  is to be aesthetic, plesant to use and confortable for color blindness user.
+
+Dark Side of the Moon syntax theme for Atom colors scheme is free inspired by the [7-color palettes for color blindness](http://mkweb.bcgsc.ca/colorblind/).
+
 ## Awesome Packages Selection
 
 Just my selection.
