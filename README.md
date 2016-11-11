@@ -56,6 +56,11 @@ The goal of this  theme  is to be aesthetic, plesant to use and confortable for 
 
 Dark Side of the Moon syntax theme for Atom colors scheme is free inspired by the [7-color palettes for color blindness](http://mkweb.bcgsc.ca/colorblind/).
 
+### Contribution, Feedback and Suggestions
+
+Please, Colorblind (protanope, deuteranope, tritanope) and non color blind people give me your [feedback/suggestions](https://github.com/thierryc/dark-side-of-the-moon-syntax/issues).
+
+
 ## Awesome Packages Selection
 
 Just my selection.
