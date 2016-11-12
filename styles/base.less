@@ -75,7 +75,7 @@ atom-text-editor .search-results .marker.current-result .region,
   }
 
   &.operator {
-    color: @syntax-text-color;
+    color: darken(@syntax-text-color, 10%);
   }
 
   &.other.special-method {
@@ -343,6 +343,13 @@ atom-text-editor .search-results .marker.current-result .region,
   &.heading {
     color: @green;
   }
+
+}
+
+.source.gfm {
+    .link {
+      color: @blue;
+    }
 }
 
 atom-text-editor[mini] .scroll-view,
