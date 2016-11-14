@@ -2,11 +2,17 @@
 
 ## dark-side-of-the-moon-syntax theme
 
+Dark Side of the Moon syntax theme Colors have been designed to be accessible to as many people as possible, even those who are visually impaired or experiencing any kind of colorblindness.
+
+Please, Give me your [feedback/suggestions](https://github.com/thierryc/dark-side-of-the-moon-syntax/issues).
+
+
 ### install
 
 ```sh
 apm install dark-side-of-the-moon-syntax
 ```
+
 
 ![Dark Side of the Moon is a Peaceful dark syntax theme for Atom.](https://raw.githubusercontent.com/thierryc/dark-side-of-the-moon-syntax/master/img/home.png)
 
@@ -94,6 +100,10 @@ Just my selection.
 
 ### 0.5.0 - aesthetic enhancement for color blind people.
 * Help needed. Give me your [feedback/suggestions](https://github.com/thierryc/dark-side-of-the-moon-syntax/issues).
+
+# LiNK
+
+* https://www.w3.org/TR/WCAG20/
 
 
 
