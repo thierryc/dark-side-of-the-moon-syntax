@@ -6,7 +6,6 @@ Dark Side of the Moon syntax theme Colors have been designed to be accessible to
 
 Please, Give me your [feedback/suggestions](https://github.com/thierryc/dark-side-of-the-moon-syntax/issues).
 
-
 ### install
 
 ```sh
@@ -104,8 +103,6 @@ Just my selection.
 # LiNK
 
 * https://www.w3.org/TR/WCAG20/
-
-
 
 # BY
 
