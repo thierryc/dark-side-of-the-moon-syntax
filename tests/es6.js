@@ -30,3 +30,50 @@ gulp.task('less', () => {
 });
 
 gulp.task('default', ['less']);
+
+
+
+const foo = 1;
+let bar = foo;
+
+bar = 9;
+
+console.log(foo, bar); // => 1, 9
+
+const foo = [1, 2];
+const bar = foo;
+
+bar[0] = 9;
+
+console.log(foo[0], bar[0]); // => 9, 9
+
+
+function getKey(k) {
+  return `a key named ${k}`;
+}
+
+// good
+const obj = {
+  id: 5,
+  name: 'San Francisco',
+  [getKey('enabled')]: true,
+};
+
+// good
+function concatenateAll(...args) {
+  return args.join('');
+}
+
+// good
+[1, 2, 3].map(number => `A string containing the ${number}.`);
+
+// good
+[1, 2, 3].map((number) => {
+  const nextNumber = number + 1;
+  return `A string containing the ${nextNumber}.`;
+});
+
+// good
+[1, 2, 3].map((number, index) => ({
+  [index]: number
+}));
