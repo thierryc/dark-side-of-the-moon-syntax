@@ -8,7 +8,10 @@
     "theme",
     "colorblind",
     "aesthetic",
-    "dark"
+    "dark",
+    "blue",
+    "green",
+    "coral"
   ],
   "repository": "https://github.com/thierryc/dark-side-of-the-moon-syntax",
   "license": "MIT",
