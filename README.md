@@ -37,6 +37,10 @@ Green Blue and Coral on the deep elegant dark background. (Sea at the Moonlight)
 
 ![Less A screenshot of your theme](https://raw.githubusercontent.com/thierryc/dark-side-of-the-moon-syntax/master/img/less_screen.png)
 
+## Coffee Script
+
+![Coffee A screenshot of your theme](https://raw.githubusercontent.com/thierryc/dark-side-of-the-moon-syntax/master/img/coffee.png)
+
 ## TODO
 
 Programmers may use informal tags in comments to assist in indexing common issues.
