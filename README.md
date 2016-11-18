@@ -10,6 +10,7 @@ Please, Give me your [feedback/suggestions](https://github.com/thierryc/dark-sid
 
 ```sh
 apm install dark-side-of-the-moon-syntax
+
 ```
 
 
@@ -68,7 +69,6 @@ Dark Side of the Moon syntax theme for Atom colors scheme is free inspired by th
 ### Contribution, Feedback and Suggestions
 
 Please, Colorblind (protanope, deuteranope, tritanope) and non color blind people give me your [feedback/suggestions](https://github.com/thierryc/dark-side-of-the-moon-syntax/issues).
-
 
 ## Awesome Packages Selection
 
