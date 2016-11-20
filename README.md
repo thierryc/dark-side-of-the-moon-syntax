@@ -113,8 +113,10 @@ Just my selection.
 
 MIT
 
-### DESIGN BY AUTRE PLANÈTE.
+### DESIGN BY THIERRT CHARBONNEL FOR AUTRE PLANÈTE.
 
 [Autre Planete Design Studio, Paris/NYC](http://www.autreplanete.com/)
+
+Twitter [@autre_planete](https://twitter.com/autre_planete)
 
 
