@@ -103,9 +103,11 @@ Just my selection.
 ### 0.5.0 - aesthetic enhancement for color blind people.
 * Help needed. Give me your [feedback/suggestions](https://github.com/thierryc/dark-side-of-the-moon-syntax/issues).
 
-## LiNK
+## LINKS
 
 * https://www.w3.org/TR/WCAG20/
+
+* soon…
 
 ## LICENSE
 
