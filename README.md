@@ -113,7 +113,7 @@ Just my selection.
 
 MIT
 
-## DESIGN BY AUTRE PLANÈTE.
+### DESIGN BY AUTRE PLANÈTE.
 
 [Autre Planete Design Studio, Paris/NYC](http://www.autreplanete.com/)
 
