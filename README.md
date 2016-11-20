@@ -13,14 +13,13 @@ apm install dark-side-of-the-moon-syntax
 
 ```
 
-
 ![Dark Side of the Moon is a Peaceful dark syntax theme for Atom.](https://raw.githubusercontent.com/thierryc/dark-side-of-the-moon-syntax/master/img/home.png)
 
 Dark Side of the Moon is a Peaceful dark syntax theme for Atom.
 
-### From BBedit
+### From BBedit 
 
-Inspired by my BBedit Theme.
+Inspired by the Autre Planète Dark Side of the Moon syntax theme for BBedit.
 
 ### Elegant’s Colors
 
@@ -80,7 +79,7 @@ Just my selection.
   * [change-case](https://atom.io/packages/change-case)
 
 
-# CHANGELOG :
+## CHANGELOG :
 
 ### 0.1.0 - First Release
 * Every feature added
@@ -99,15 +98,21 @@ Just my selection.
 * Every bug fixed.
 
 
-# ROADMAP
+## ROADMAP
 
 ### 0.5.0 - aesthetic enhancement for color blind people.
 * Help needed. Give me your [feedback/suggestions](https://github.com/thierryc/dark-side-of-the-moon-syntax/issues).
 
-# LiNK
+## LiNK
 
 * https://www.w3.org/TR/WCAG20/
 
-# BY
+## LICENSE
+
+MIT
+
+## DESIGN BY AUTRE PLANÈTE.
 
 [Autre Planete Design Studio, Paris/NYC](http://www.autreplanete.com/)
+
+
