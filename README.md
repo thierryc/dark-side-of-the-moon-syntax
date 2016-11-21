@@ -6,6 +6,8 @@ Dark Side of the Moon syntax theme Colors have been designed to be accessible to
 
 Please, Give me your [feedback/suggestions](https://github.com/thierryc/dark-side-of-the-moon-syntax/issues).
 
+**Optimized for Atom Dark UI theme.**
+
 ### install
 
 ```sh
@@ -17,7 +19,7 @@ apm install dark-side-of-the-moon-syntax
 
 Dark Side of the Moon is a Peaceful dark syntax theme for Atom.
 
-### From BBedit 
+### From BBedit
 
 Inspired by the Autre Planète Dark Side of the Moon syntax theme for BBedit.
 
@@ -118,5 +120,3 @@ MIT
 [Autre Planete Design Studio, Paris/NYC](http://www.autreplanete.com/)
 
 Twitter [@autre_planete](https://twitter.com/autre_planete)
-
-
