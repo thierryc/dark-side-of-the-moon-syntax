@@ -1,0 +1,25 @@
+@mixin rounded($amount) {
+  -moz-border-radius: $amount;
+  -webkit-border-radius: $amount;
+  border-radius: $amount;
+}
+
+/* ==========================================================================
+   MIXINS
+   ========================================================================== */
+
+%tab-focus {
+  // Default
+  outline: thin dotted $warning-color;
+  // Webkit
+  outline: 5px auto $warning-color;
+  outline-offset: -2px;
+}
+
+/*
+   em function
+   ========================================================================== */
+
+@function em($target, $context: $doc-font-size) {
+  @return ($target / $context) * 1em;
+}
