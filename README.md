@@ -98,6 +98,7 @@ Just my selection.
 
 ### 0.4.0 - Aesthetic Enhancement.
 * Every bug fixed.
+* Add tests files for es6, coffee script, java, json, less, markdown, python, ruby, scss, yaml,…
 
 
 ## ROADMAP
