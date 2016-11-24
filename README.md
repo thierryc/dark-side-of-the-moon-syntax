@@ -8,6 +8,7 @@ Please, Give me your [feedback/suggestions](https://github.com/thierryc/dark-sid
 
 **Optimized for Atom Dark UI theme.**
 
+
 ### install
 
 ```sh
