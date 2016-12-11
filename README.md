@@ -11,7 +11,8 @@ Please, Give me your [feedback/suggestions](https://github.com/thierryc/dark-sid
 
 ### install
 
-```sh
+```ssh
+
 apm install dark-side-of-the-moon-syntax
 
 ```
