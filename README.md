@@ -29,23 +29,26 @@ Inspired by the Autre Planète Dark Side of the Moon syntax theme for BBedit.
 
 Green Blue and Coral on the deep elegant dark background. (Sea at the Moonlight)
 
-## JS (JavaScript)
+### JS (JavaScript)
 
 ![Json A screenshot of your theme](https://raw.githubusercontent.com/thierryc/dark-side-of-the-moon-syntax/master/img/js_screen.png)
 
-## JSON
+### JSON
 
 ![Js A screenshot of your theme](https://raw.githubusercontent.com/thierryc/dark-side-of-the-moon-syntax/master/img/json_screen.png)
 
-## LESS
+### LESS
 
 ![Less A screenshot of your theme](https://raw.githubusercontent.com/thierryc/dark-side-of-the-moon-syntax/master/img/less_screen.png)
 
-## Coffee Script
+### Coffee Script
 
 ![Coffee A screenshot of your theme](https://raw.githubusercontent.com/thierryc/dark-side-of-the-moon-syntax/master/img/coffee.png)
 
-## TODO
+
+# Features
+
+### TODO, FIXME, visual informal tags.
 
 Programmers may use informal tags in comments to assist in indexing common issues.
 
@@ -56,7 +59,7 @@ Programmers may use informal tags in comments to assist in indexing common issue
 
 ![Todo A screenshot of your theme](https://raw.githubusercontent.com/thierryc/dark-side-of-the-moon-syntax/master/img/less_screen_todo.png)
 
-### Very good TODO, FIXME, and more Packages.
+#### Very good TODO, FIXME, and more Packages.
 
   * [todo-show](https://atom.io/packages/todo-show)
 
@@ -69,7 +72,9 @@ The goal of this  theme  is to be aesthetic, plesant to use and confortable for 
 
 Dark Side of the Moon syntax theme for Atom colors scheme is free inspired by the [7-color palettes for color blindness](http://mkweb.bcgsc.ca/colorblind/).
 
-### Contribution, Feedback and Suggestions
+
+
+## Contribution, Feedback and Suggestions
 
 Please, Colorblind (protanope, deuteranope, tritanope) and non color blind people give me your [feedback/suggestions](https://github.com/thierryc/dark-side-of-the-moon-syntax/issues).
 
