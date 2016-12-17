@@ -57,6 +57,19 @@ Programmers may use informal tags in comments to assist in indexing common issue
 * TODO - Something to be done.
 * XXX - Warn other programmers of problematic or misguiding code
 
+#### Informal tags list exemple:
+
+* FIXME
+* TODO
+* CHANGED
+* XXX
+* IDEA
+* HACK
+* NOTE
+* REVIEW
+
+
+
 ![Todo A screenshot of your theme](https://raw.githubusercontent.com/thierryc/dark-side-of-the-moon-syntax/master/img/less_screen_todo.png)
 
 #### Very good TODO, FIXME, and more Packages.
