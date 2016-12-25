@@ -68,14 +68,19 @@ Programmers may use informal tags in comments to assist in indexing common issue
 * NOTE
 * REVIEW
 
-
-
-![Todo A screenshot of your theme](https://raw.githubusercontent.com/thierryc/dark-side-of-the-moon-syntax/master/img/less_screen_todo.png)
+![Todo screenshot](https://raw.githubusercontent.com/thierryc/dark-side-of-the-moon-syntax/master/img/less_screen_todo.png)
 
 #### Very good TODO, FIXME, and more Packages.
 
   * [todo-show](https://atom.io/packages/todo-show)
 
+### Atom nice GLSL highlighting
+
+1. add [language-babel](https://atom.io/packages/language-babel) package.
+2. add [language-glsl](https://atom.io/packages/language-glsl) package.
+3. Configure language-babel to add GLSL:source.glsl in settings "JavaScript Tagged Template Literal Grammar Extensions".
+
+![GLSL](https://raw.githubusercontent.com/thierryc/dark-side-of-the-moon-syntax/master/img/js-glsl.png)
 
 ### Color Blindness Optimized for Zen Codding!
 

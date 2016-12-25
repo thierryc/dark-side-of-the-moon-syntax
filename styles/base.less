@@ -364,3 +364,13 @@ atom-text-editor[mini] .scroll-view,
 atom-text-editor::shadow .scroll-view {
   padding-left: 0.4em; // small space on the left.
 }
+
+/* language-babel blocks */
+atom-text-editor::shadow .line .ttl-grammar {
+  background-color: rgba(0,0,0,0.4);
+
+}
+atom-text-editor::shadow .line .ttl-grammar:first-child:last-child {
+  display: block;
+  // force background to take full width only if ttl-grammar is alone in the line.
+}
