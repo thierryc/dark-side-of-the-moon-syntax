@@ -138,7 +138,6 @@ Just my selection.
 
 * https://www.w3.org/TR/WCAG20/
 
-* soon…
 
 ## LICENSE
 
