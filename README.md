@@ -8,7 +8,6 @@ Please, Give me your [feedback/suggestions](https://github.com/thierryc/dark-sid
 
 **Optimized for Atom Dark UI theme.**
 
-
 ### install
 
 ```ssh
@@ -44,7 +43,6 @@ Green Blue and Coral on the deep elegant dark background. (Sea at the Moonlight)
 ### Coffee Script
 
 ![Coffee A screenshot of your theme](https://raw.githubusercontent.com/thierryc/dark-side-of-the-moon-syntax/master/img/coffee.png)
-
 
 # Features
 
@@ -90,8 +88,6 @@ The goal of this  theme  is to be aesthetic, plesant to use and confortable for 
 
 Dark Side of the Moon syntax theme for Atom colors scheme is free inspired by the [7-color palettes for color blindness](http://mkweb.bcgsc.ca/colorblind/).
 
-
-
 ## Contribution, Feedback and Suggestions
 
 Please, Colorblind (protanope, deuteranope, tritanope) and non color blind people give me your [feedback/suggestions](https://github.com/thierryc/dark-side-of-the-moon-syntax/issues).
@@ -104,7 +100,6 @@ Just my selection.
   * [Sublime-Style-Column-Selection](https://atom.io/packages/Sublime-Style-Column-Selection)
   * [atom-beautify](https://atom.io/packages/atom-beautify)
   * [change-case](https://atom.io/packages/change-case)
-
 
 ## CHANGELOG :
 
@@ -137,7 +132,6 @@ Just my selection.
 ## LINKS
 
 * https://www.w3.org/TR/WCAG20/
-
 
 ## LICENSE
 
