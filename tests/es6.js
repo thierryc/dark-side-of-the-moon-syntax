@@ -31,8 +31,6 @@ gulp.task('less', () => {
 
 gulp.task('default', ['less']);
 
-
-
 const foo = 1;
 let bar = foo;
 
@@ -46,7 +44,6 @@ const bar = foo;
 bar[0] = 9;
 
 console.log(foo[0], bar[0]); // => 9, 9
-
 
 function getKey(k) {
   return `a key named ${k}`;
