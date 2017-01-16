@@ -76,11 +76,11 @@ atom-text-editor .search-results .syntax--marker.current-result .region {
     color: darken(@syntax-text-color, 10%);
   }
 
-  &.syntax--other.special-method {
+  &.syntax--other.syntax--special-method {
     color: @blue;
   }
 
-  &.syntax--other.unit {
+  &.syntax--other.syntax--unit {
     color: @orange;
   }
 }
@@ -116,7 +116,7 @@ atom-text-editor .search-results .syntax--marker.current-result .region {
     color: darken(@soft-blue, 10%);
   }
 
-  &.parameter.syntax--function {
+  &.syntax--parameter.syntax--function {
     color: @syntax-text-color;
   }
 }
@@ -178,7 +178,7 @@ atom-text-editor .search-results .syntax--marker.current-result .region {
     }
   }
 
-  &.section.syntax--embedded {
+  &.syntax--section.syntax--embedded {
     color: darken(@red, 10%);
   }
 
@@ -192,7 +192,7 @@ atom-text-editor .search-results .syntax--marker.current-result .region {
   &.syntax--function  {
     color: @cyan;
 
-    &.any-method {
+    &.syntax--any-method {
       color: @blue;
     }
   }
@@ -202,20 +202,20 @@ atom-text-editor .search-results .syntax--marker.current-result .region {
   &.syntax--class.syntax--function {
     color: @blue;
   }
-  &.syntax--class.type {
+  &.syntax--class.syntax--type {
     color: @light-orange;
     //text-decoration: underline;
   }
 
-  &.syntax--other.inherited-class {
+  &.syntax--other.syntax--inherited-class {
     color: @green;
   }
   &.syntax--class.syntax--class,
-  &.syntax--class.type.syntax--class {
+  &.syntax--class.syntax--type.syntax--class {
     color: @light-orange;
   }
 
-  &.syntax--class.section {
+  &.syntax--class.syntax--section {
     color: @blue;
   }
 
@@ -233,11 +233,11 @@ atom-text-editor .search-results .syntax--marker.current-result .region {
 }
 
 // TMP
-.syntax--source.js.syntax--embedded.syntax--html {
+.syntax--source.syntax--js.syntax--embedded.syntax--html {
   color: darken(@soft-blue, 10%);
 }
 
-.meta {
+.syntax--meta {
   &.syntax--class {
     color: @light-orange;
   }
