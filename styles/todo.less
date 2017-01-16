@@ -11,53 +11,52 @@
 // REVIEW: for me!
 
 
-:host,
 atom-text-editor {
-    .source .comment {
+    .syntax--source .syntax--comment {
 
-        .changed,
-        .fixme,
-        .hack,
-        .idea,
-        .note,
-        .review,
-        .todo,
-        .xxx {
+        .syntax--changed,
+        .syntax--fixme,
+        .syntax--hack,
+        .syntax--idea,
+        .syntax--note,
+        .syntax--review,
+        .syntax--todo,
+        .syntax--xxx {
             background-color: black;
             padding-left: .4em;
             padding-right: .4em;
             border-radius: 3px;
         }
 
-        .todo {
+        .syntax--todo {
             color: @syntax-color-todo-todo;
         }
 
-        .fixme {
+        .syntax--fixme {
             color: @syntax-color-todo-fixme;
         }
 
-        .changed {
+        .syntax--changed {
             color: @syntax-color-todo-changed;
         }
 
-        .xxx {
+        .syntax--xxx {
             color: @syntax-color-todo-xxx;
         }
 
-        .idea {
+        .syntax--idea {
             color: @syntax-color-todo-idea;
         }
 
-        .hack {
+        .syntax--hack {
             color: @syntax-color-todo-hack;
         }
 
-        .note {
+        .syntax--note {
             color: @syntax-color-todo-note;
         }
 
-        .review {
+        .syntax--review {
             color: @syntax-color-todo-review;
         }
     }
