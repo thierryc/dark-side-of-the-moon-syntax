@@ -120,13 +120,18 @@ Just my selection.
 * Every bug fixed.
 * Add tests files for es6, coffee script, java, json, less, markdown, python, ruby, scss, yaml,…
 
-### 0.5.0 - add GLSL Aesthetic Enhancement..
+### 0.5.0 - add GLSL Aesthetic Enhancement.
 * Every bug fixed.
 * Add tests files for GLSL highlighting
 
+### 0.6.0 - Stop using shadow DOM selectors.
+* Every bug fixed.
+* Stop using shadow DOM selectors
+
+
 ## ROADMAP
 
-### 0.6.0 - aesthetic enhancement for color blind people.
+### 0.7.0 - aesthetic enhancement for color blind people.
 * Help needed. Give me your [feedback/suggestions](https://github.com/thierryc/dark-side-of-the-moon-syntax/issues).
 
 ## LINKS
