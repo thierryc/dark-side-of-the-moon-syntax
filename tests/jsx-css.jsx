@@ -3,19 +3,19 @@ export default () => (
     <p>Hello World 4</p>
     <style jsx>{`
       :global(:root) {
-      --bgColor: green;
-      --color: white;
+        --bgColor: green;
+        --color: white;
       }
       .hello {
-      font: 15px Helvetica, Arial, sans-serif;
-      background: var(--bgColor);
-      color: var(--color);
-      padding: 100px;
-      text-align: center;
-      transition: 100ms ease-in background;
+        font: 15px Helvetica, Arial, sans-serif;
+        background: var(--bgColor);
+        color: var(--color);
+        padding: 100px;
+        text-align: center;
+        transition: 100ms ease-in background;
       }
       .hello:hover {
-      color: color(var(--color) blackness(+80%));
+        color: color(var(--color) blackness(+80%));
       }
     `}</style>
   </div>
