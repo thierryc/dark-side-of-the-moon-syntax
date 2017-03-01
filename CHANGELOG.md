@@ -11,5 +11,7 @@
 * Every bug fixed
 
 ## 0.6.x - Stop using shadow DOM selectors
+* Stop using shadow DOM selectors
+
 
 [link](http://www.autreplanete.com)
