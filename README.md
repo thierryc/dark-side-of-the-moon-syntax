@@ -128,6 +128,10 @@ Just my selection.
 * Every bug fixed.
 * Stop using shadow DOM selectors
 
+### 0.6.13 -
+* Every bug fixed.
+* smooth highlights and highlights selected colors [richrace/highlight-selected](https://atom.io/packages/highlight-selected).
+
 
 ## ROADMAP
 
