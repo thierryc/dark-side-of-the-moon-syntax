@@ -6,7 +6,9 @@ Dark Side of the Moon syntax theme Colors have been designed to be accessible to
 
 Please, Give me your [feedback/suggestions](https://github.com/thierryc/dark-side-of-the-moon-syntax/issues).
 
-**Optimized for Atom Dark UI theme.**
+**Optimized for Atom Dark UI theme and Atom One Dark theme**
+
+**Ready for KOLTIN**
 
 ### install
 
@@ -131,6 +133,10 @@ Just my selection.
 ### 0.6.13 -
 * Every bug fixed.
 * smooth highlights and highlights selected colors [richrace/highlight-selected](https://atom.io/packages/highlight-selected).
+
+### 0.6.24 - Red Moon
+* Every bug fixed.
+* Red Moon for a Better regex in find-editor.
 
 
 ## ROADMAP
