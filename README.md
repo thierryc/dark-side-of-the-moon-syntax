@@ -6,9 +6,9 @@ Dark Side of the Moon syntax theme Colors have been designed to be accessible to
 
 Please, Give me your [feedback/suggestions](https://github.com/thierryc/dark-side-of-the-moon-syntax/issues).
 
-**Optimized for Atom Dark UI theme and Atom One Dark theme**
+**Optimized for Atom (1.18.0 and more) Dark UI theme and Atom One Dark theme**
 
-**Ready for KOLTIN**
+Ready for KOLTIN
 
 ### install
 
