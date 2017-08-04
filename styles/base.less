@@ -99,7 +99,7 @@ atom-text-editor .search-results .syntax--marker.current-result .region {
   }
 
   &.syntax--numeric {
-    color: darken(@light-orange, 5%);
+    color: lighten(@light-orange, 5%);
   }
 
   &.syntax--other.syntax--color {
@@ -115,7 +115,7 @@ atom-text-editor .search-results .syntax--marker.current-result .region {
   color: @soft-blue;
 
   &.syntax--interpolation {
-    color: darken(@soft-blue, 10%);
+    color: lighten(@soft-blue, 10%);
   }
 
   &.syntax--parameter.syntax--function {
@@ -158,7 +158,7 @@ atom-text-editor .search-results .syntax--marker.current-result .region {
     }
 
     &.syntax--string {
-      color: darken(@soft-blue, 5%);
+      color: lighten(@soft-blue, 5%);
     }
 
     &.syntax--heading,
@@ -176,12 +176,12 @@ atom-text-editor .search-results .syntax--marker.current-result .region {
       font-style: italic;
     }
     &.syntax--tag {
-      color: darken(@soft-blue, 5%); //punctuation definition tag begin html
+      color: lighten(@soft-blue, 5%); //punctuation definition tag begin html
     }
   }
 
   &.syntax--section.syntax--embedded {
-    color: darken(@red, 10%);
+    color: lighten(@red, 10%);
   }
 
 }
@@ -222,7 +222,7 @@ atom-text-editor .search-results .syntax--marker.current-result .region {
   }
 
   &.syntax--class.syntax--tag {
-    color: darken(@soft-blue, 10%);
+    color: lighten(@soft-blue, 10%);
   }
 
   &.syntax--other.syntax--attribute-name {
@@ -237,7 +237,7 @@ atom-text-editor .search-results .syntax--marker.current-result .region {
 
 // TMP
 .syntax--source.syntax--js.syntax--embedded.syntax--html {
-  color: darken(@soft-blue, 10%);
+  color: lighten(@soft-blue, 10%);
 }
 
 .syntax--meta {
@@ -263,7 +263,7 @@ atom-text-editor .search-results .syntax--marker.current-result .region {
   }
 
   &.syntax--tag {
-    color: darken(@soft-blue, 10%);
+    color: lighten(@soft-blue, 10%);
   }
 
   &.syntax--dictionary {
@@ -278,10 +278,10 @@ atom-text-editor .search-results .syntax--marker.current-result .region {
   }
   &.syntax--property-list {
     .syntax--property-name {
-      color: darken(@soft-blue, 10%);
+      color: lighten(@soft-blue, 10%);
     }
     .syntax--punctuation.syntax--separator {
-      color: darken(@soft-blue, 20%);
+      color: lighten(@soft-blue, 20%);
     }
   }
 }
@@ -369,7 +369,7 @@ atom-text-editor.editor .scroll-view {
 
 /* language-babel blocks */
 atom-text-editor.editor .line .syntax--ttl-grammar {
-  background-color: rgba(0,0,0,0.4);
+  background-color: rgba(255, 255, 255, 0.4);
 
 }
 atom-text-editor.editor .line .syntax--ttl-grammar:first-child:last-child {
