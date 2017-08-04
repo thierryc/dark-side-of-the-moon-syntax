@@ -13,9 +13,6 @@
   /* your styles */
 }
 
-/* or coupled with custom media queries */
-@custom-media --only-medium-screen (width >= 500px) and (width <= 1200px);
-
 @media (--only-medium-screen) {
   /* your styles */
 }
