@@ -13,10 +13,10 @@ console.log(mult(2, 5)); // 10
 * long comment !
 *
 **/
-let toto, tutu;
+let toto, tutu, baz;
 
 if (toto == tutu) {
-
+  baz = false;
 }
 
 const lessIncludes = [path.join(__dirname, 'layout', 'includes')];
