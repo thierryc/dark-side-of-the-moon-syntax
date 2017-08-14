@@ -8,7 +8,7 @@ Please, Give me your [feedback/suggestions](https://github.com/thierryc/dark-sid
 
 Light Version: https://atom.io/themes/far-side-of-the-moon-syntax
 
-**Optimized for Atom (1.18.0 and more) Dark UI theme and Atom One Dark theme**
+**Optimized for Atom (1.19.0 and more) Dark UI theme and Atom One Dark theme**
 
 Ready for KOLTIN
 
@@ -132,7 +132,7 @@ Just my selection.
 * Every bug fixed.
 * Stop using shadow DOM selectors
 
-### 0.6.13 -
+### 0.6.13 - (No Name)
 * Every bug fixed.
 * smooth highlights and highlights selected colors [richrace/highlight-selected](https://atom.io/packages/highlight-selected).
 
@@ -140,6 +140,10 @@ Just my selection.
 * Every bug fixed.
 * Red Moon for a Better regex in find-editor.
 
+### 0.6.43 - JSX shadow
+* atom 1.19 ready
+* Every bug fixed.
+* improve JSX styling.
 
 ## ROADMAP
 
@@ -154,7 +158,7 @@ Just my selection.
 
 MIT
 
-### DESIGN BY THIERRY CHARBONNEL FOR AUTRE PLANÈTE.
+### DESIGN BY [THIERRY CHARBONNEL](htt://www.anotherplanet.io).
 
 [Autre Planete Design Studio, Paris/NYC](http://www.autreplanete.com/)
 

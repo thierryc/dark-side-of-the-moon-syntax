@@ -15,7 +15,8 @@ class Drop extends React.Component {
     return (
       <div className={classnames(css.drop_zone)}>
         <p>Simply drag and drop your files to begin. Supported formats: .jpg and .png</p>
-        <Button primary={true}>Add image</Button><Button>Clear</Button>
+        
+        <Button info="" primary={true} style={{ zIndex: 26, color: 'rgba(10,20,32,0)' }}>Add image</Button><Button>Clear</Button>
       </div>
     );
   }
