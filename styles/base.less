@@ -3,6 +3,12 @@
 @import "highlights";
 @import "find-editor";
 
+/*
+
+syntax--punctuation syntax--section syntax--embedded syntax--begin syntax--jsx
+
+*/
+
 atom-text-editor {
   background-color: @syntax-background-color;
   color: @syntax-text-color;
@@ -112,6 +118,7 @@ atom-text-editor .search-results .syntax--marker.current-result .region {
 
   &.syntax--boolean {
     font-style: italic;
+    font-weight: bold;
     color: darken(@orange, 5%);
   }
 }
@@ -193,6 +200,9 @@ syntax--constant syntax--language syntax--boolean syntax--false syntax--js
 
   &.syntax--section.syntax--embedded {
     color: darken(@red, 10%);
+    &.syntax--jsx {
+      color: @very-very-light-gray;
+    }
   }
 
 }
