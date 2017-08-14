@@ -201,10 +201,9 @@ syntax--constant syntax--language syntax--boolean syntax--false syntax--js
   &.syntax--section.syntax--embedded {
     color: darken(@red, 10%);
     &.syntax--jsx {
-      color: @very-very-light-gray;
+      color: @very-light-gray;
     }
   }
-
 }
 
 .syntax--support {
@@ -377,6 +376,11 @@ syntax--constant syntax--language syntax--boolean syntax--false syntax--js
     }
 }
 
+.syntax--jsx {
+  .syntax--JSXNested {
+    color: @cyan;
+  }
+}
 
 atom-text-editor[mini] .scroll-view,
 atom-text-editor .scroll-view {
