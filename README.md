@@ -10,6 +10,13 @@ Light Version: https://atom.io/themes/far-side-of-the-moon-syntax
 
 **Optimized for Atom (1.19.0 and more) Dark UI theme and Atom One Dark theme**
 
+<span><a
+    href="https://twitter.com/Autre_planete"
+    class="twitter-follow-button"
+    data-show-count="false">Follow @{userId}</a>
+    <script async src="//platform.twitter.com/widgets.js" charSet="utf-8"></script>
+</span>
+
 Ready for KOLTIN
 
 ### install
