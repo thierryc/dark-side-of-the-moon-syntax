@@ -1,0 +1,27 @@
+const accountsList = {
+  "compte": {
+    "label": "Compte joint",
+    "titulaire": "Mr et Mme",
+    "number": "5678 1234 7890",
+    "type": "compte-courant",
+    "link": ["compte-carte"],
+  },
+  "compte-2": {
+    "label": "Compte courant",
+    "titulaire": "Mme Sophie",
+    "number": "1234 5678 2345",
+    "type": "compte-courant",
+  },
+  "carte": {
+    "label": "Carte Visa Premier",
+    "titulaire": "Mr Paul",
+    "number": "2345 6789 0123 0989",
+    "type: "compte-carte"
+  },
+  "compte-epargne": {
+    "label": "Livret A",
+    "titulaire": "Mr Paul",
+    "number": "1234 5678 9012 4567",
+    "type": "epargne"
+  },
+};
