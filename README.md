@@ -6,13 +6,13 @@ Dark Side of the Moon syntax theme Colors have been designed to be accessible to
 
 Please, Give me your [feedback/suggestions](https://github.com/thierryc/dark-side-of-the-moon-syntax/issues).
 
+Try the other side of the Moon!
+
 Light Version: https://atom.io/themes/far-side-of-the-moon-syntax
 
-**Optimized for Atom (1.19.0 and more) Dark UI theme and Atom One Dark theme**
+**Optimized for Atom (1.24.0 and more) Dark UI theme and Atom One Dark theme**
 
 [Follow Me on Twitter](https://twitter.com/Autre_planete)
-
-Ready for KOLTIN
 
 ### install
 
@@ -41,6 +41,8 @@ Green Blue and Coral on the deep elegant dark background. (Sea at the Moonlight)
 ### JSON
 
 ![Js A screenshot of your theme](https://raw.githubusercontent.com/thierryc/dark-side-of-the-moon-syntax/master/img/json_screen.png)
+
+New error color !
 
 ### LESS
 
@@ -142,10 +144,11 @@ Just my selection.
 * Every bug fixed.
 * Red Moon for a Better regex in find-editor.
 
-### 0.6.43 - JSX shadow
-* atom 1.19 ready
-* Every bug fixed.
-* improve JSX styling.
+### 0.6.46 - JSX shadow
+* atom 1.24 ready
+* bug fixed.
+* improve Error Color on JSON file.
+
 
 ## ROADMAP
 
@@ -160,8 +163,8 @@ Just my selection.
 
 MIT
 
-### DESIGN BY [THIERRY CHARBONNEL](htt://www.anotherplanet.io).
+### DESIGN BY [THIERRY CHARBONNEL](https://www.anotherplanet.io/).
 
-[Autre Planete Design Studio, Paris/NYC](http://www.autreplanete.com/)
+[Autre Planète UX Design Studio, NYC / Paris](https://www.anotherplanet.io/)
 
 Twitter [@autre_planete](https://twitter.com/autre_planete)
