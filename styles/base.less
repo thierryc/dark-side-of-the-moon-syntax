@@ -237,6 +237,7 @@ syntax--constant syntax--language syntax--boolean syntax--false syntax--js
   &.syntax--other.syntax--inherited-class {
     color: @green;
   }
+
   &.syntax--class,
   &.syntax--class.syntax--type {
     color: @light-orange;
@@ -250,8 +251,10 @@ syntax--constant syntax--language syntax--boolean syntax--false syntax--js
     color: darken(@soft-blue, 10%);
   }
 
-  &.syntax--class .syntax--parameters.syntax--tsx {
-    color: @orange;
+  &.syntax--class {
+     .syntax--parameters {
+      color: @orange;
+    }
   }
 
   &.syntax--other.syntax--attribute-name {
