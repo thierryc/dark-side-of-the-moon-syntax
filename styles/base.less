@@ -199,8 +199,11 @@ syntax--constant syntax--language syntax--boolean syntax--false syntax--js
   }
 
   &.syntax--section.syntax--embedded {
-    color: darken(@red, 10%);
+    color: darken(@orange, 10%);
     &.syntax--jsx {
+      color: @very-light-gray;
+    }
+    &.syntax--tsx {
       color: @very-light-gray;
     }
   }
