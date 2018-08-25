@@ -216,15 +216,6 @@ syntax--constant syntax--language syntax--boolean syntax--false syntax--js
   }
   */
 
-  &.syntax--class {
-     color: @light-orange;
-
-     &.syntax--parameters {
-      color: @orange;
-     }
-
-  }
-
   &.syntax--function  {
     color: @cyan;
 
@@ -315,6 +306,13 @@ syntax--constant syntax--language syntax--boolean syntax--false syntax--js
     .syntax--punctuation.syntax--separator {
       color: darken(@soft-blue, 20%);
     }
+  }
+
+  &.syntax--class {
+     color: @light-orange;
+     .syntax--parameters {
+      color: @orange;
+     }
   }
 }
 
